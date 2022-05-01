@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651177754989",
+    "project_id": "able-bd124",
+    "storage_bucket": "able-bd124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651177754989:android:344e4658ed108b65a59a64",
+        "android_client_info": {
+          "package_name": "com.example.ablecontactsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651177754989-845rltltvbeebtm02dmb63d5qsph5jpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-bBdDNIMU_MtJvJ4oYJ-I5PkHdU3-fMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651177754989-845rltltvbeebtm02dmb63d5qsph5jpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
